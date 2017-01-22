@@ -1,0 +1,29 @@
+h1 {
+  font-family:Jokerman;
+  color: red;
+}
+#firstBody {
+  background-image:
+url("");
+}
+
+
+#electionOne {
+  color: blue;
+}
+
+#electionTwo {
+  color: blue;
+}
+
+#electionThree {
+  color: blue;
+}
+
+#electionFour {
+  color: blue;
+}
+
+#electionFive {
+  color: blue;
+}
